@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dolla/static/css/main.d7da34c1.css",
+    "main.js": "/dolla/static/js/main.00cca3f9.js",
+    "static/media/video.mp4": "/dolla/static/media/video.5e99e70107e8538462e6.mp4",
+    "static/media/svg-1.png": "/dolla/static/media/svg-1.3beff4a1caf785c40b15.png",
+    "static/media/svg-2.png": "/dolla/static/media/svg-2.82981ee42f6e23afa3a8.png",
+    "static/media/svg-5.png": "/dolla/static/media/svg-5.149c725c759dd4cb30e9.png",
+    "static/media/svg-3.png": "/dolla/static/media/svg-3.e791e36f726de0154104.png",
+    "index.html": "/dolla/index.html",
+    "main.d7da34c1.css.map": "/dolla/static/css/main.d7da34c1.css.map",
+    "main.00cca3f9.js.map": "/dolla/static/js/main.00cca3f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.00cca3f9.js"
+  ]
+}
