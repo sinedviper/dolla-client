@@ -11,6 +11,7 @@
 - react-dom
 - react-icons
 - react-router-dom
+- styled-components
 
 ---
 
